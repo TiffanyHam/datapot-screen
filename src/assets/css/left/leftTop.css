@@ -1,0 +1,172 @@
+.clearfix:after {
+  　　content: " ";
+  　　display: block;
+  　　clear: both;
+  　　height: 0;
+}
+.clearfix {zoom:1;}
+.leftTop{
+  height: 100%;
+}
+.part_one{
+  height: 15%
+}
+.title{
+  display: block;
+  width: 100%;
+  margin: 2% auto 5% auto;
+}
+.imgs_one{
+  width: 100%;
+  position: relative;
+}
+.imgs_two{
+  width:88%;
+}
+.imgs_three{
+  width: 95%;
+}
+.imgs_four{
+  width: 100%;
+  position: relative;
+}
+.title_three{
+  margin-bottom: 4%;
+  display: block;
+  font-size: 0.7vw;
+  color: #fff;
+}
+.txt_name1 {
+  position: absolute;
+  color: #fff;
+  font-size: 0.9vw;
+  transform: translate(-50%,-50%);
+}
+.txt1{
+  top: 45%;
+  left: 13%;
+}
+.txt2{
+  top: 45%;
+  left: 46%;
+}
+.txt3{
+  top: 45%;
+  left: 79%;
+}
+.txt_name2{
+  margin-bottom: 5%;
+}
+.txtNum{
+  color: #4a9ef5;
+  font-size: 1.3vw;
+}
+.txt_name3{
+  position: absolute;
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  color: #fff;
+  font-size: 0.9vw;
+  text-align: center;
+}
+.txt_name3 span{
+  color: #4a9ef5;
+  font-size: 1.5vw;
+}
+.txt4{
+  left: 48%;
+  top: 58%;
+}
+.txt5{
+  left: 82%;
+  top: 58%;
+}
+.imgs_five {
+  position: absolute;
+  top: 14%;
+  left: 7%;
+  width: 40%;
+}
+
+.gatherOfDefFood{
+  color:#92B0BA;
+  text-align: center;
+  background-image:url(../../images/leftTop/txt_bg5.png);
+  background-size: 100% 100%;
+  width: 100%;
+  height: 100%;
+}
+.gatherOfDefFood .el-loading-mask {
+  background-color: transparent!important;
+}
+.gatherOfDefFood p{
+  text-align: left;
+}
+#top5{
+  font-size: 1.2vw;
+  padding: 1%;
+}
+.gatherOfDefFood_end {
+  margin: 2.5% 0;
+}
+.gatherOfDefFood_end ul li{
+  background-image: url(../../images/leftTop/bg05.png);
+  background-size: 100% 100%;
+  width: 19%;
+  height: 50%;
+  margin: 0.3rem;
+  padding-top: 0.25rem;
+  display: inline-block;
+
+}
+.gatherOfDefFood_end ul {
+  display: inline-block;
+  margin: 0 auto;
+  width: 100%;
+}
+.gatherEnd_title{
+  margin: 10%;
+}
+.gatherOfDefFood_end ul li p {
+  font-size: 1vw;
+  letter-spacing: 0vw;
+}
+.secPart{
+  width: 92%;
+  margin: 0 auto;
+  position: relative;
+  height: 58%;
+}
+.part_three{
+  width: 92%;
+  margin: 0 auto;
+  height: 30%;
+}
+.part_four{
+    width: 92%;
+    margin: 0 auto;
+    padding-top: 2.5rem;
+}
+.imgs_left{
+  text-align: left;
+}
+.imgs_right{
+  text-align: right;
+}
+.line {
+  position: absolute;
+  left: -2%;
+  top: 60%;
+}
+.txt_name4{
+  position: absolute;
+  left: 52%;
+  top: 26%;
+  text-align: center;
+}
+.txt6{
+  font-size: 1.5vw;
+  text-align: center;
+  color: #7eccff;
+}
+.imgs_six{width: 100%}

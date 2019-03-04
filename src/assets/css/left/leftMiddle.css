@@ -1,0 +1,138 @@
+.leftMiddle{
+  height: 99%;
+  width: 100%;
+  margin: 0 auto;
+}
+.title{
+  display: block;
+  margin: 2% auto 5% auto;
+}
+/*
+.huzMap{width: 100%;height: 250px}
+*/
+.lPart{position: relative; width: 60%;margin:0 auto}
+/*.netChart{
+  width: 100%;
+  height: 270px
+}*/
+#ruleActeNetwork {
+  width:100%;
+  height: 100%;
+}
+.topPart1{
+  height: 13%;
+  margin-bottom: 1%;
+}
+.midPart1 {
+  height: 43%;
+  width: 90%;
+  margin-bottom: 2%;
+  margin-left: 5%!important
+}
+.text1{
+  text-align: center;
+}
+.text2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.txtFont{
+  font-size: 0.7vw;
+  color: #fff;
+  padding-bottom: 0.6rem;
+  display: block;
+}
+.txtNum{
+  color: #4a9ef5;
+  font-size: 1.3vw;
+}
+.bt_bg{
+  height: 100%;
+  width: 100%;
+  background-image: url(../../images/leftMiddle/index5.png);
+  background-size: 100% 100%;
+  position: relative;
+}
+.padding1 {
+  padding: 1rem 1rem 0.2rem 1rem;
+}
+.padding2 {
+  position: relative;
+  top: -0.5rem;
+  left: 0;
+}
+.endDefense ul li {
+  text-align: center;
+  width: 18%;
+  height: 100%;
+  display: inline-block;
+  margin: auto 0.3%;
+}
+#attaHei{
+  width: 100%;
+  height: 100%;
+}
+.endDefense {
+  height: 30%;
+}
+
+.endDefense .defenseNum {
+    position: relative;
+    left: 39%;
+    margin-top: 0.5rem;
+    background-size: 100% 100%;
+    height: 11.5vh;
+    width: 23%;
+}
+.leftMiddleNum1{
+  background-image: url(../../images/leftMiddle/green.png);
+}
+.leftMiddleNum2{
+  background-image: url(../../images/leftMiddle/orange.png);
+}
+.leftMiddleNum3{
+  background-image: url(../../images/leftMiddle/red.png);
+}
+.defenseNum div {
+  position: relative;
+  top: 35%;
+}
+
+.endDefense .defimgCout3 {
+  background-size: 100% 100%;
+}
+
+.endDefense .defimgCout4 {
+  background-size: 100% 100%;
+}
+
+.endDefense .defimgCout5 {
+  background-size: 100% 100%;
+}
+
+.text_name{
+  font-size: 0.9vw;
+  color: #fff;
+}
+
+.bt_bg .fs-1{
+  font-size:1vw;
+}
+.bt_bg .t-t2{
+  margin: 0.5% 0 0 1.5%;
+}
+#attackCharts{
+  width: 100%;
+  height: 27vh
+}
+#trendCharts{
+   width: 100%;
+   height: 27vh
+}
+.endDefense ul{
+  display: inline-block;
+  width: 100%;
+  margin: 0 auto;
+}

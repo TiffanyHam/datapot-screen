@@ -1,0 +1,150 @@
+.leftBottom{
+  height: 100%;
+}
+.title{
+  width: 100%;
+  display: block;
+  margin: 2% auto 5% auto;
+}
+#midPart2{
+  width: 95%;
+  height: 55%;
+  margin: 0 auto;
+}
+
+.biao{
+    width: 9%;
+    display: block;
+    position: absolute;
+    top: 0%;
+    left: 18%;
+}
+.left_bgs{
+  width: 90%;
+  height: 100%;
+  background: url("../../images/leftBottom/left_bg.png")no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+.right_bgs{
+  width: 100%;
+  height: 100%;
+  background: url("../../images/leftBottom/right_bg.png")no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  padding: 4% 0;
+}
+#bottomPart2{
+  width: 100%;
+  height: 95%;
+  background: url("../../images/leftBottom/botBg.png")no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+.bottomPart3{
+  width: 95%;
+  height: 45%;
+  margin: 0 auto;
+}
+#bottomPart2 .fs-1{
+  font-size:1vw;
+}
+#bottomPart2 .t-t2{
+  margin: 0.5% 0 1% 2.5%;
+}
+.tabList{
+  width: 95%;
+  margin: 0 auto
+}
+.tabList .el-table{
+  color: #8ba8b2;
+}
+.tabList .el-table th{
+  background: #030a15;
+}
+.tabList .el-table tr{
+  background: #03132c;
+  opacity: .6
+}
+.tabList .el-table td,.building-top .el-table th.is-leaf {
+  border-bottom:  5px solid #000;
+}
+.tabList .el-table thead {
+  color: #8ba8b2;
+}
+.tabList .el-table--enable-row-hover .el-table__body tr:hover>td {
+  background-color: transparent;
+}
+.tabList .el-table th.is-leaf {
+  border-bottom: none;
+}
+.tabList .el-table--scrollable-x .el-table__body-wrapper {
+   overflow-x:hidden ;
+}
+.txt_name5{
+  margin-bottom: 5%;
+}
+.huan_one{
+  width: 75%;
+}
+.huan_two{
+  width: 75%;
+}
+.huan_txt{
+  transform: translatex(-50%);
+  left: 71.5%;
+  top: 39%;
+}
+.huan_txt1{
+  transform: translatex(-50%);
+  left: 88%;
+  top: 39%;
+}
+.ft-1{font-size: 1.5vw}
+.ft-9{font-size:0.9vw}
+.echBg{
+  width: 33%;
+  position: absolute;
+  left: 20%;
+  top: 13.5%;
+}
+.tabList .el-table td, .el-table th {
+  padding: 1rem 0;
+}
+.tabList .el-table td, .el-table th {
+  padding: 1rem 0;
+}
+/*table填充数据出现多余线条*/
+.tabList .el-table::before {
+  z-index: inherit;
+}
+.tabList .el-table, .el-table__expanded-cell{
+  background-color:transparent;
+}
+.tabList .el-table--border::after, .tabList .el-table--group::after,.tabList .el-table::before{
+  background-color:transparent;
+}
+.tabList .el-table__empty-block {
+  background: transparent;
+  margin-top: 2%;
+}
+.circle{
+  background: #00bffe;
+  border-radius: 10px;
+  width: 27px;
+  height: 6px;
+  display: block;
+}
+#charts{
+  width:100%;
+  height: 30vh;
+  position: absolute!important;
+  left: 14.5%;
+  top: 15.5%
+}
+canvas#cirCanvas {
+  position: absolute;
+  left: 14%;
+  top: 6%;
+  width: 47%;
+}
