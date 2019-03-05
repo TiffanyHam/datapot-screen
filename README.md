@@ -1,6 +1,6 @@
 # datapot-screen
 
-> A Vue.js project
+> 这是一个基于vue的网络安全大屏系统
 
 ## Build Setup
 
